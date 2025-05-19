@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🔍 Regex Data Extraction Project
 
 This project uses Python and regular expressions (regex) to extract structured data from raw text. It simulates parsing API responses by identifying patterns such as emails, URLs, phone numbers, and more.
@@ -63,24 +62,3 @@ Phone Numbers:
 
 Created as part of an ALU assignment by me.
 
-=======
-# Regex Data Extraction Assignment
-
-## Overview
-This project extracts key data types using Python and regular expressions from simulated API string responses.
-
-## Extracted Data Types
-- Emails
-- URLs
-- Phone Numbers
-- Credit Card Numbers
-- Time (12/24 hour format)
-- HTML Tags
-- Hashtags
-- Currency Amounts
-
-## How to Run
-```bash
-chmod +x main.py
-./main.py
->>>>>>> 9aea16035e72d8e39d7920cd7fcf3220f09a87a3
